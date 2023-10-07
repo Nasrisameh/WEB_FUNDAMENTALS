@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 5px;
+    padding: 10px; 
+}  
+h1 {
+    background-color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    text-align: left;
+    font-style: normal;
+    font-family: cursive;
+    margin: 10px;
+    padding: 8px;
+    
+    
+}
+
+#Cloud {
+    color: rgb(0,255,255);
+}
+
+h2 {
+    background-color: rgb(102,51,153);
+    color: rgb(255,255,255);
+    text-align: center;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 5px;
+}
+
+h3 {
+    background-color: rgb(159,197,248);
+    color: rgb(32,18,77);
+    text-align: right;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 5px;
+}
